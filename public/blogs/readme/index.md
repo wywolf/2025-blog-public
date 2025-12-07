@@ -2,6 +2,12 @@
 
 该项目使用 Github App 管理项目内容，请保管好后续创建的 **Private key**，不要上传到公开网上。
 
+## 0. Fork 项目
+
+请先 fork 我的项目到你自己的仓库中。后续我的更新，可以直接同步最新功能。
+
+![](/blogs/readme/f8fb1af7c34a8cf8.webp)
+
 ## 1. 安装
 
 使用该项目可以先不做本地开发，直接部署然后配置环境变量。具体变量名请看下列大写变量
@@ -141,6 +147,9 @@ export const GITHUB_CONFIG = {
 
 QQ 群：[https://qm.qq.com/q/spdpenr4k2](https://qm.qq.com/q/spdpenr4k2)
 > 不好意思，之前的那个qq群ID 不知道为啥搜不到😂
+
+微信群：刚建好了一个微信群，没有 qq 的可以用这个微信群
+![](/blogs/readme/343f2c62035b8e23.webp)
 
 应该主要是我自己亲自帮助你们遇到问题怎么办。（后续看看有没有好心人）
 
